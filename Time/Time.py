@@ -28,5 +28,6 @@ L_3.pack()
 Time_result()
 
 windown.overrideredirect(1)
-windown.geometry('350x80')
+#350x80 =โซลูชันหน้าจอ || 1600+960 คือวางแอพไว้ตรงไหนของหน้าจอ จริงๆใช้แค่ 350x80 ก็พอแล้วแต่หน้าจอจะ Random เกิดแต่ล่ะรอบที่รัน
+windown.geometry('350x80+1600+960')
 windown.mainloop()
