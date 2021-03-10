@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Time_DateTime.iml" filepath="$PROJECT_DIR$/.idea/Time_DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multiplication_table/.idea/multiplication_table.iml" filepath="$PROJECT_DIR$/../multiplication_table/.idea/multiplication_table.iml" />
     </modules>
   </component>
 </project>
