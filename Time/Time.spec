@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Time.py'],
-             pathex=['D:\\Temp_Git\\Time_DateTime\\Time'],
+             pathex=['d:\\Temp_Git\\Time_DateTime\\Time'],
              binaries=[],
              datas=[],
              hiddenimports=[],
